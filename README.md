@@ -7,3 +7,5 @@ My Job:
 · Design the user interface using Qt Creator, load two images, calculate and display brightness and color uniformity in different areas of them, and implement user-defined threshold and contrast area functions
 
 · Designed and implemented the function of saving test results and marking pictures
+
+![image](https://github.com/user-attachments/assets/0c2e50a3-1458-4359-843c-21c8b4634792)
