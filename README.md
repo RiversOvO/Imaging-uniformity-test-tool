@@ -7,7 +7,3 @@ My Job:
 · Design the user interface using Qt Creator, load two images, calculate and display brightness and color uniformity in different areas of them, and implement user-defined threshold and contrast area functions
 
 · Designed and implemented the function of saving test results and marking pictures
-
-· Improved contrast mode of color uniformity, using CIEDE2000 standard
-
-· Analyze the image by YOLOv5 model, and intelligently judge whether the brightness and color uniformity in the image are qualified
